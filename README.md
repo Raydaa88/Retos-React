@@ -25,7 +25,7 @@ No se trata únicamente de terminar proyectos, sino de comprender cómo funciona
 | Día | Proyecto | Conceptos principales | Estado |
 |---|---|---|---|
 | 01 | [Contador interactivo](./dia-01-contador/) | `useState`, eventos y renderizado condicional | ✅ Completado |
-| 02 | Lista de tareas | `map`, `filter` y formularios | ⬜ Pendiente |
+| 02 | Lista de tareas | `map`, `filter` y formularios | ✅ Completado |
 | 03 | Calculadora | Funciones y lógica de programación | ⬜ Pendiente |
 | 04 | Cronómetro | `useEffect` y temporizadores | ⬜ Pendiente |
 | 05 | Generador de contraseñas | Arrays y aleatoriedad | ⬜ Pendiente |
