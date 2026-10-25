@@ -27,7 +27,7 @@ No se trata únicamente de terminar proyectos, sino de comprender cómo funciona
 | 01 | [Contador interactivo](./dia-01-contador/) | `useState`, eventos y renderizado condicional | ✅ Completado |
 | 02 | [Lista de tareas](./dia-02-lista-tareas/) | `map`, `filter` y formularios | ✅ Completado |
 | 03 | [Calculadora](./dia-03-calculadora/) | Funciones y lógica de programación | ✅ Completado |
-| 04 | Cronómetro | `useEffect` y temporizadores | ⬜ Pendiente |
+| 04 | [Cronómetro](./dia-04-cronometro/) | `useEffect` y temporizadores | ✅ Completado |
 | 05 | Generador de contraseñas | Arrays y aleatoriedad | ⬜ Pendiente |
 | 06 | Conversor de unidades | Inputs y cálculos | ⬜ Pendiente |
 | 07 | Quiz de preguntas | Estado y renderizado condicional | ⬜ Pendiente |
