@@ -28,7 +28,7 @@ No se trata únicamente de terminar proyectos, sino de comprender cómo funciona
 | 02 | [Lista de tareas](./dia-02-lista-tareas/) | `map`, `filter` y formularios | ✅ Completado |
 | 03 | [Calculadora](./dia-03-calculadora/) | Funciones y lógica de programación | ✅ Completado |
 | 04 | [Cronómetro](./dia-04-cronometro/) | `useEffect` y temporizadores | ✅ Completado |
-| 05 | Generador de contraseñas | Arrays y aleatoriedad | ⬜ Pendiente |
+| 05 | [Generador de contraseñas](./dia-05-generadorcontrasenas/) | Arrays y aleatoriedad | ✅ Completado |
 | 06 | Conversor de unidades | Inputs y cálculos | ⬜ Pendiente |
 | 07 | Quiz de preguntas | Estado y renderizado condicional | ⬜ Pendiente |
 
