@@ -29,7 +29,7 @@ No se trata únicamente de terminar proyectos, sino de comprender cómo funciona
 | 03 | [Calculadora](./dia-03-calculadora/) | Funciones y lógica de programación | ✅ Completado |
 | 04 | [Cronómetro](./dia-04-cronometro/) | `useEffect` y temporizadores | ✅ Completado |
 | 05 | [Generador de contraseñas](./dia-05-generadorcontrasenas/) | Arrays y aleatoriedad | ✅ Completado |
-| 06 | Conversor de unidades | Inputs y cálculos | ⬜ Pendiente |
+| 06 | [Conversor de unidades](./dia-06-conversor-unidades/) | Inputs y cálculos | ✅ Completado |
 | 07 | Quiz de preguntas | Estado y renderizado condicional | ⬜ Pendiente |
 
 ### Semana 2 — Interfaces y gestión de datos
