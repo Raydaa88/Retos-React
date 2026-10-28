@@ -30,7 +30,7 @@ No se trata únicamente de terminar proyectos, sino de comprender cómo funciona
 | 04 | [Cronómetro](./dia-04-cronometro/) | `useEffect` y temporizadores | ✅ Completado |
 | 05 | [Generador de contraseñas](./dia-05-generadorcontrasenas/) | Arrays y aleatoriedad | ✅ Completado |
 | 06 | [Conversor de unidades](./dia-06-conversor-unidades/) | Inputs y cálculos | ✅ Completado |
-| 07 | Quiz de preguntas | Estado y renderizado condicional | ⬜ Pendiente |
+| 07 | [Quiz de preguntas](./dia-07-quiz-preguntas/) | Estado y renderizado condicional | ✅ Completado |
 
 ### Semana 2 — Interfaces y gestión de datos
 
